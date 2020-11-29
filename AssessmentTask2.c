@@ -1,8 +1,3 @@
-﻿
-//-----Luko Šneideraičio-----
-//----------EAF-20-----------
-//-----2nd Assessment Task-------
-
 
 #define _USE_MATH_DEFINES 
 #define _CRT__secure_no_warnings
